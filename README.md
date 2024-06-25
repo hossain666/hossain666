@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hossain666
 - 👀 I’m interested in ... Bug Bounty program
-- 🌱 I’m currently learning ... Cyber Security and Ethical Hacking
+- 🌱 I’m currently learning professional ... Cyber Security and Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... HE/Him
